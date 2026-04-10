@@ -1,2 +1,3 @@
 Model_A,Hi,Model A response to: Hi,23,True
 Model_B,Hi,Model B says: iH,16,False
+aditya,Local,Ollama,Ollama,"Hi, this is Aditya",Hello Aditya! It's nice to meet you. Is there something I can help you with or would you like to chat?,102,False
